@@ -1,4 +1,4 @@
-# BollywoodLens DBMS Prototype
+# CineArchive DBMS Prototype
 
 BollywoodLens is a movie-centric relational database built around the Indian movies dataset. This repository contains everything you need for the **Day 1 (40–50%) milestone**: schema design, ER diagram, data loading pipeline, and demo SQL artefacts.
 
